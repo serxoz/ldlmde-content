@@ -1,0 +1,74 @@
+{
+    "name": "ldlmde-content",
+    "title": "Contenido OGL para Leyendas de la Marca del Este",
+    "description": "Contenido con licencia OGL de Leyendas de la Marca del Este del grupo creativo Leyendas de la Marca.",
+    "version": "0.0.1",
+    "systems": ["ldlmde"],
+    "author": "Sergio Cotelo",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "packs": [
+        {
+          "name": "monsters",
+          "label": "Monstruos",
+          "package": "ldlmde-content",
+          "path": "packs/monsters.db",
+          "entity": "Actor"
+        },
+        {
+            "name": "items",
+            "label": "Objetos",
+            "package": "ldlmde-content",
+            "path": "packs/items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "weapons",
+            "label": "Armas",
+            "package": "ldlmde-content",
+            "path": "packs/weapons.db",
+            "entity": "Item"
+        },
+        {
+            "name": "armors",
+            "label": "Armaduras",
+            "package": "ldlmde-content",
+            "path": "packs/armors.db",
+            "entity": "Item"
+        },
+        {
+            "name": "spells",
+            "label": "Hechizos",
+            "package": "ldlmde-content",
+            "path": "packs/spells.db",
+            "entity": "Item"
+        },
+        {
+            "name": "classes",
+            "label": "Clases",
+            "package": "ldlmde-content",
+            "path": "packs/classes.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "treasures",
+            "label": "Tablas de Tesoro",
+            "package": "ldlmde-content",
+            "path": "packs/treasures.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "abilities",
+            "label": "Habilidades",
+            "package": "ldlmde-content",
+            "path": "packs/abilities.db",
+            "entity": "Item"
+        }
+    ],
+    "minimumCoreVersion": "0.6.2",
+    "compatibleCoreVersion": "0.7.0",
+    "url": "",
+    "manifest": "",
+    "download": ""
+}
