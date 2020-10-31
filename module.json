@@ -39,21 +39,21 @@
         },
         {
             "name": "mage-spells",
-            "label": "Hechizos",
+            "label": "Conjuros de Mago",
             "package": "ldlmde-content",
             "path": "packs/mage-spells.db",
             "entity": "Item"
         },
         {
             "name": "cleric-spells",
-            "label": "Hechizos",
+            "label": "Conjuros de Clérigo",
             "package": "ldlmde-content",
             "path": "packs/cleric-spells.db",
             "entity": "Item"
         },
         {
             "name": "druid-spells",
-            "label": "Hechizos",
+            "label": "Conjuros de Druida",
             "package": "ldlmde-content",
             "path": "packs/druid-spells.db",
             "entity": "Item"
